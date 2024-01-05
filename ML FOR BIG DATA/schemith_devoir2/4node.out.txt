@@ -1,0 +1,788 @@
+created virtual environment CPython3.10.2.final.0-64 in 553ms
+  creator CPython3Posix(dest=/localscratch/jschemith.1739.0/ENV, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=/home/jschemith/.local/share/virtualenv)
+    added seed packages: pip==21.3.1, setuptools==60.2.0, wheel==0.37.1
+  activators BashActivator,CShellActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+created virtual environment CPython3.10.2.final.0-64 in 553ms
+  creator CPython3Posix(dest=/localscratch/jschemith.1739.0/ENV, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=/home/jschemith/.local/share/virtualenv)
+    added seed packages: pip==21.3.1, setuptools==60.2.0, wheel==0.37.1
+  activators BashActivator,CShellActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+created virtual environment CPython3.10.2.final.0-64 in 550ms
+  creator CPython3Posix(dest=/localscratch/jschemith.1739.0/ENV, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=/home/jschemith/.local/share/virtualenv)
+    added seed packages: pip==21.3.1, setuptools==60.2.0, wheel==0.37.1
+  activators BashActivator,CShellActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+created virtual environment CPython3.10.2.final.0-64 in 556ms
+  creator CPython3Posix(dest=/localscratch/jschemith.1739.0/ENV, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=/home/jschemith/.local/share/virtualenv)
+    added seed packages: pip==21.3.1, setuptools==60.2.0, wheel==0.37.1
+  activators BashActivator,CShellActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+Looking in links: /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/avx512, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx512, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/avx2, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx2, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic
+Requirement already satisfied: pip in /localscratch/jschemith.1739.0/ENV/lib/python3.10/site-packages (21.3.1)
+Looking in links: /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/avx512, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx512, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/avx2, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx2, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic
+Requirement already satisfied: pip in /localscratch/jschemith.1739.0/ENV/lib/python3.10/site-packages (21.3.1)
+Looking in links: /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/avx512, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx512, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/avx2, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx2, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic
+Requirement already satisfied: pip in /localscratch/jschemith.1739.0/ENV/lib/python3.10/site-packages (21.3.1)
+Looking in links: /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/avx512, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx512, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/avx2, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx2, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic
+Requirement already satisfied: pip in /localscratch/jschemith.1739.0/ENV/lib/python3.10/site-packages (21.3.1)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pip-23.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pip-23.0+computecanada-py3-none-any.whl
+Installing collected packages: pip
+  Attempting uninstall: pip
+    Found existing installation: pip 21.3.1
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pip-23.0+computecanada-py3-none-any.whl
+Installing collected packages: pip
+  Attempting uninstall: pip
+    Found existing installation: pip 21.3.1
+    Uninstalling pip-21.3.1:
+      Successfully uninstalled pip-21.3.1
+    Uninstalling pip-21.3.1:
+      Successfully uninstalled pip-21.3.1
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pip-23.0+computecanada-py3-none-any.whl
+Installing collected packages: pip
+  Attempting uninstall: pip
+    Found existing installation: pip 21.3.1
+    Uninstalling pip-21.3.1:
+      Successfully uninstalled pip-21.3.1
+Installing collected packages: pip
+  Attempting uninstall: pip
+    Found existing installation: pip 21.3.1
+    Uninstalling pip-21.3.1:
+      Successfully uninstalled pip-21.3.1
+Successfully installed pip-23.0+computecanada
+Successfully installed pip-23.0+computecanada
+Successfully installed pip-23.0+computecanada
+Looking in links: /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/avx512, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx512, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/avx2, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx2, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic
+Looking in links: /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/avx512, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx512, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/avx2, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx2, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic
+Successfully installed pip-23.0+computecanada
+Looking in links: /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/avx512, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx512, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/avx2, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx2, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic
+Looking in links: /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/avx512, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx512, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/avx2, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx2, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/generic/tensorflow-2.14.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/generic/tensorflow-2.14.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/generic/tensorflow-2.14.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/generic/tensorflow-2.14.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/wrapt-1.14.1+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorflow_io_gcs_filesystem-0.32.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/opt_einsum-3.3.0+computecanada-py3-none-any.whl
+Requirement already satisfied: setuptools in /localscratch/jschemith.1739.0/ENV/lib/python3.10/site-packages (from tensorflow) (60.2.0)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/absl_py-1.4.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorflow_io_gcs_filesystem-0.32.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/wrapt-1.14.1+computecanada-cp310-cp310-linux_x86_64.whl
+Requirement already satisfied: packaging in /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ipykernel/2023b/lib/python3.10/site-packages (from tensorflow) (23.1+computecanada)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/absl_py-1.4.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/termcolor-2.3.0+computecanada-py3-none-any.whl
+Requirement already satisfied: six>=1.12.0 in /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ipykernel/2023b/lib/python3.10/site-packages (from tensorflow) (1.16.0+computecanada)
+Requirement already satisfied: packaging in /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ipykernel/2023b/lib/python3.10/site-packages (from tensorflow) (23.1+computecanada)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/flatbuffers-20190709135844+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/termcolor-2.3.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx2/h5py-3.8.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/astunparse-1.6.3+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/keras-2.14.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorboard-2.14.1+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/wrapt-1.14.1+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/flatbuffers-20190709135844+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/google_pasta-0.2.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/termcolor-2.3.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorflow_estimator-2.14.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx2/h5py-3.8.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/libclang-14.0.1+computecanada-py2.py3-none-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/libclang-14.0.1+computecanada-py2.py3-none-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/keras-2.14.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorflow_estimator-2.14.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/ml_dtypes-0.2.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx2/protobuf-4.22.2+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/grpcio-1.57.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx2/protobuf-4.22.2+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx2/h5py-3.8.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorflow_io_gcs_filesystem-0.32.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/ml_dtypes-0.2.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/absl_py-1.4.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/gast-0.5.4+computecanada-py3-none-any.whl
+Requirement already satisfied: setuptools in /localscratch/jschemith.1739.0/ENV/lib/python3.10/site-packages (from tensorflow) (60.2.0)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/gast-0.5.4+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/gast-0.5.4+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/astunparse-1.6.3+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/astunparse-1.6.3+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/generic/numpy-1.25.2+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/generic/numpy-1.25.2+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/typing_extensions-4.7.1+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/generic/numpy-1.25.2+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorboard-2.14.1+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/libclang-14.0.1+computecanada-py2.py3-none-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorboard-2.14.1+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/wrapt-1.14.1+computecanada-cp310-cp310-linux_x86_64.whl
+Requirement already satisfied: setuptools in /localscratch/jschemith.1739.0/ENV/lib/python3.10/site-packages (from tensorflow) (60.2.0)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/opt_einsum-3.3.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2020/generic/numpy-1.25.2+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorflow_estimator-2.14.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/typing_extensions-4.7.1+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/grpcio-1.57.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorflow_estimator-2.14.0+computecanada-py2.py3-none-any.whl
+Requirement already satisfied: six>=1.12.0 in /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ipykernel/2023b/lib/python3.10/site-packages (from tensorflow) (1.16.0+computecanada)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/flatbuffers-20190709135844+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/ml_dtypes-0.2.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/google_pasta-0.2.0+computecanada-py3-none-any.whl
+Requirement already satisfied: setuptools in /localscratch/jschemith.1739.0/ENV/lib/python3.10/site-packages (from tensorflow) (60.2.0)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/grpcio-1.57.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/termcolor-2.3.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/typing_extensions-4.7.1+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/keras-2.14.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/opt_einsum-3.3.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/gast-0.5.4+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/grpcio-1.57.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/typing_extensions-4.7.1+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/flatbuffers-20190709135844+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorboard-2.14.1+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/ml_dtypes-0.2.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx2/h5py-3.8.0+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/absl_py-1.4.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx2/protobuf-4.22.2+computecanada-cp310-cp310-linux_x86_64.whl
+Requirement already satisfied: six>=1.12.0 in /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ipykernel/2023b/lib/python3.10/site-packages (from tensorflow) (1.16.0+computecanada)
+Requirement already satisfied: packaging in /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ipykernel/2023b/lib/python3.10/site-packages (from tensorflow) (23.1+computecanada)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/libclang-14.0.1+computecanada-py2.py3-none-linux_x86_64.whl
+Requirement already satisfied: wheel<1.0,>=0.23.0 in /localscratch/jschemith.1739.0/ENV/lib/python3.10/site-packages (from astunparse>=1.6.0->tensorflow) (0.37.1)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/keras-2.14.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx2/protobuf-4.22.2+computecanada-cp310-cp310-linux_x86_64.whl
+Requirement already satisfied: wheel<1.0,>=0.23.0 in /localscratch/jschemith.1739.0/ENV/lib/python3.10/site-packages (from astunparse>=1.6.0->tensorflow) (0.37.1)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/google_pasta-0.2.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/opt_einsum-3.3.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/werkzeug-3.0.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/google_auth_oauthlib-1.0.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorflow_io_gcs_filesystem-0.32.0+computecanada-cp310-cp310-linux_x86_64.whl
+Requirement already satisfied: wheel<1.0,>=0.23.0 in /localscratch/jschemith.1739.0/ENV/lib/python3.10/site-packages (from astunparse>=1.6.0->tensorflow) (0.37.1)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/google_auth_oauthlib-1.0.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/google_pasta-0.2.0+computecanada-py3-none-any.whl
+Requirement already satisfied: packaging in /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ipykernel/2023b/lib/python3.10/site-packages (from tensorflow) (23.1+computecanada)
+Requirement already satisfied: six>=1.12.0 in /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ipykernel/2023b/lib/python3.10/site-packages (from tensorflow) (1.16.0+computecanada)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorboard_data_server-0.7.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/google_auth_oauthlib-1.0.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/requests-2.31.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/astunparse-1.6.3+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/requests-2.31.0+computecanada-py3-none-any.whl
+Requirement already satisfied: wheel<1.0,>=0.23.0 in /localscratch/jschemith.1739.0/ENV/lib/python3.10/site-packages (from astunparse>=1.6.0->tensorflow) (0.37.1)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/google_auth-2.22.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/google_auth-2.22.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/werkzeug-3.0.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/google_auth_oauthlib-1.0.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/requests-2.31.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/Markdown-3.4.4+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/Markdown-3.4.4+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/Markdown-3.4.4+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/werkzeug-3.0.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorboard_data_server-0.7.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/google_auth-2.22.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/requests-2.31.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/Markdown-3.4.4+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/rsa-4.9+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/urllib3-1.26.17+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorboard_data_server-0.7.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/werkzeug-3.0.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/urllib3-1.26.17+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/rsa-4.9+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorboard_data_server-0.7.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pyasn1_modules-0.3.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/rsa-4.9+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pyasn1_modules-0.3.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/cachetools-5.3.1+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/cachetools-5.3.1+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/google_auth-2.22.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/cachetools-5.3.1+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/requests_oauthlib-1.3.1+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/urllib3-1.26.17+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/rsa-4.9+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/requests_oauthlib-1.3.1+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/charset_normalizer-3.2.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pyasn1_modules-0.3.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/charset_normalizer-3.2.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/cachetools-5.3.1+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/idna-3.4+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/requests_oauthlib-1.3.1+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/urllib3-1.26.17+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/idna-3.4+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/certifi-2023.7.22+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/certifi-2023.7.22+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pyasn1_modules-0.3.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/certifi-2023.7.22+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/charset_normalizer-3.2.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/MarkupSafe-2.1.3+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/requests_oauthlib-1.3.1+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/MarkupSafe-2.1.3+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pyasn1-0.5.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/idna-3.4+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pyasn1-0.5.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/charset_normalizer-3.2.0+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/oauthlib-3.2.2+computecanada-py3-none-any.whl
+Installing collected packages: libclang, flatbuffers, wrapt, urllib3, typing-extensions, termcolor, tensorflow-io-gcs-filesystem, tensorflow-estimator, tensorboard-data-server, pyasn1, protobuf, oauthlib, numpy, MarkupSafe, markdown, keras, idna, grpcio, google-pasta, gast, charset-normalizer, certifi, cachetools, astunparse, absl-py, werkzeug, rsa, requests, pyasn1-modules, opt-einsum, ml-dtypes, h5py, requests-oauthlib, google-auth, google-auth-oauthlib, tensorboard, tensorflow
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/MarkupSafe-2.1.3+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/oauthlib-3.2.2+computecanada-py3-none-any.whl
+Installing collected packages: libclang, flatbuffers, wrapt, urllib3, typing-extensions, termcolor, tensorflow-io-gcs-filesystem, tensorflow-estimator, tensorboard-data-server, pyasn1, protobuf, oauthlib, numpy, MarkupSafe, markdown, keras, idna, grpcio, google-pasta, gast, charset-normalizer, certifi, cachetools, astunparse, absl-py, werkzeug, rsa, requests, pyasn1-modules, opt-einsum, ml-dtypes, h5py, requests-oauthlib, google-auth, google-auth-oauthlib, tensorboard, tensorflow
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/certifi-2023.7.22+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pyasn1-0.5.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/idna-3.4+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/oauthlib-3.2.2+computecanada-py3-none-any.whl
+Installing collected packages: libclang, flatbuffers, wrapt, urllib3, typing-extensions, termcolor, tensorflow-io-gcs-filesystem, tensorflow-estimator, tensorboard-data-server, pyasn1, protobuf, oauthlib, numpy, MarkupSafe, markdown, keras, idna, grpcio, google-pasta, gast, charset-normalizer, certifi, cachetools, astunparse, absl-py, werkzeug, rsa, requests, pyasn1-modules, opt-einsum, ml-dtypes, h5py, requests-oauthlib, google-auth, google-auth-oauthlib, tensorboard, tensorflow
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/MarkupSafe-2.1.3+computecanada-cp310-cp310-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pyasn1-0.5.0+computecanada-py2.py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/oauthlib-3.2.2+computecanada-py3-none-any.whl
+Installing collected packages: libclang, flatbuffers, wrapt, urllib3, typing-extensions, termcolor, tensorflow-io-gcs-filesystem, tensorflow-estimator, tensorboard-data-server, pyasn1, protobuf, oauthlib, numpy, MarkupSafe, markdown, keras, idna, grpcio, google-pasta, gast, charset-normalizer, certifi, cachetools, astunparse, absl-py, werkzeug, rsa, requests, pyasn1-modules, opt-einsum, ml-dtypes, h5py, requests-oauthlib, google-auth, google-auth-oauthlib, tensorboard, tensorflow
+Successfully installed MarkupSafe-2.1.3+computecanada absl-py-1.4.0+computecanada astunparse-1.6.3+computecanada cachetools-5.3.1+computecanada certifi-2023.7.22+computecanada charset-normalizer-3.2.0+computecanada flatbuffers-20190709135844+computecanada gast-0.5.4+computecanada google-auth-2.22.0+computecanada google-auth-oauthlib-1.0.0+computecanada google-pasta-0.2.0+computecanada grpcio-1.57.0+computecanada h5py-3.8.0+computecanada idna-3.4+computecanada keras-2.14.0+computecanada libclang-14.0.1+computecanada markdown-3.4.4+computecanada ml-dtypes-0.2.0+computecanada numpy-1.25.2+computecanada oauthlib-3.2.2+computecanada opt-einsum-3.3.0+computecanada protobuf-4.22.2+computecanada pyasn1-0.5.0+computecanada pyasn1-modules-0.3.0+computecanada requests-2.31.0+computecanada requests-oauthlib-1.3.1+computecanada rsa-4.9+computecanada tensorboard-2.14.1+computecanada tensorboard-data-server-0.7.0+computecanada tensorflow-2.14.0+computecanada tensorflow-estimator-2.14.0+computecanada tensorflow-io-gcs-filesystem-0.32.0+computecanada termcolor-2.3.0+computecanada typing-extensions-4.7.1+computecanada urllib3-1.26.17+computecanada werkzeug-3.0.0+computecanada wrapt-1.14.1+computecanada
+Successfully installed MarkupSafe-2.1.3+computecanada absl-py-1.4.0+computecanada astunparse-1.6.3+computecanada cachetools-5.3.1+computecanada certifi-2023.7.22+computecanada charset-normalizer-3.2.0+computecanada flatbuffers-20190709135844+computecanada gast-0.5.4+computecanada google-auth-2.22.0+computecanada google-auth-oauthlib-1.0.0+computecanada google-pasta-0.2.0+computecanada grpcio-1.57.0+computecanada h5py-3.8.0+computecanada idna-3.4+computecanada keras-2.14.0+computecanada libclang-14.0.1+computecanada markdown-3.4.4+computecanada ml-dtypes-0.2.0+computecanada numpy-1.25.2+computecanada oauthlib-3.2.2+computecanada opt-einsum-3.3.0+computecanada protobuf-4.22.2+computecanada pyasn1-0.5.0+computecanada pyasn1-modules-0.3.0+computecanada requests-2.31.0+computecanada requests-oauthlib-1.3.1+computecanada rsa-4.9+computecanada tensorboard-2.14.1+computecanada tensorboard-data-server-0.7.0+computecanada tensorflow-2.14.0+computecanada tensorflow-estimator-2.14.0+computecanada tensorflow-io-gcs-filesystem-0.32.0+computecanada termcolor-2.3.0+computecanada typing-extensions-4.7.1+computecanada urllib3-1.26.17+computecanada werkzeug-3.0.0+computecanada wrapt-1.14.1+computecanada
+Successfully installed MarkupSafe-2.1.3+computecanada absl-py-1.4.0+computecanada astunparse-1.6.3+computecanada cachetools-5.3.1+computecanada certifi-2023.7.22+computecanada charset-normalizer-3.2.0+computecanada flatbuffers-20190709135844+computecanada gast-0.5.4+computecanada google-auth-2.22.0+computecanada google-auth-oauthlib-1.0.0+computecanada google-pasta-0.2.0+computecanada grpcio-1.57.0+computecanada h5py-3.8.0+computecanada idna-3.4+computecanada keras-2.14.0+computecanada libclang-14.0.1+computecanada markdown-3.4.4+computecanada ml-dtypes-0.2.0+computecanada numpy-1.25.2+computecanada oauthlib-3.2.2+computecanada opt-einsum-3.3.0+computecanada protobuf-4.22.2+computecanada pyasn1-0.5.0+computecanada pyasn1-modules-0.3.0+computecanada requests-2.31.0+computecanada requests-oauthlib-1.3.1+computecanada rsa-4.9+computecanada tensorboard-2.14.1+computecanada tensorboard-data-server-0.7.0+computecanada tensorflow-2.14.0+computecanada tensorflow-estimator-2.14.0+computecanada tensorflow-io-gcs-filesystem-0.32.0+computecanada termcolor-2.3.0+computecanada typing-extensions-4.7.1+computecanada urllib3-1.26.17+computecanada werkzeug-3.0.0+computecanada wrapt-1.14.1+computecanada
+Successfully installed MarkupSafe-2.1.3+computecanada absl-py-1.4.0+computecanada astunparse-1.6.3+computecanada cachetools-5.3.1+computecanada certifi-2023.7.22+computecanada charset-normalizer-3.2.0+computecanada flatbuffers-20190709135844+computecanada gast-0.5.4+computecanada google-auth-2.22.0+computecanada google-auth-oauthlib-1.0.0+computecanada google-pasta-0.2.0+computecanada grpcio-1.57.0+computecanada h5py-3.8.0+computecanada idna-3.4+computecanada keras-2.14.0+computecanada libclang-14.0.1+computecanada markdown-3.4.4+computecanada ml-dtypes-0.2.0+computecanada numpy-1.25.2+computecanada oauthlib-3.2.2+computecanada opt-einsum-3.3.0+computecanada protobuf-4.22.2+computecanada pyasn1-0.5.0+computecanada pyasn1-modules-0.3.0+computecanada requests-2.31.0+computecanada requests-oauthlib-1.3.1+computecanada rsa-4.9+computecanada tensorboard-2.14.1+computecanada tensorboard-data-server-0.7.0+computecanada tensorflow-2.14.0+computecanada tensorflow-estimator-2.14.0+computecanada tensorflow-io-gcs-filesystem-0.32.0+computecanada termcolor-2.3.0+computecanada typing-extensions-4.7.1+computecanada urllib3-1.26.17+computecanada werkzeug-3.0.0+computecanada wrapt-1.14.1+computecanada
+Done installing virtualenv!
+Done installing virtualenv!
+Done installing virtualenv!
+Done installing virtualenv!
+2023-11-22 01:42:42.657615: I tensorflow/core/util/port.cc:111] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2023-11-22 01:42:42.662606: I tensorflow/core/util/port.cc:111] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2023-11-22 01:42:42.692038: I tensorflow/core/util/port.cc:111] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2023-11-22 01:42:42.696790: E tensorflow/compiler/xla/stream_executor/cuda/cuda_dnn.cc:9342] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2023-11-22 01:42:42.697019: E tensorflow/compiler/xla/stream_executor/cuda/cuda_fft.cc:609] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2023-11-22 01:42:42.697147: E tensorflow/compiler/xla/stream_executor/cuda/cuda_blas.cc:1518] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2023-11-22 01:42:42.701837: E tensorflow/compiler/xla/stream_executor/cuda/cuda_dnn.cc:9342] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2023-11-22 01:42:42.702071: E tensorflow/compiler/xla/stream_executor/cuda/cuda_fft.cc:609] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2023-11-22 01:42:42.702284: E tensorflow/compiler/xla/stream_executor/cuda/cuda_blas.cc:1518] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2023-11-22 01:42:42.707019: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-11-22 01:42:42.710841: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-11-22 01:42:42.715795: I tensorflow/core/util/port.cc:111] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2023-11-22 01:42:42.734451: E tensorflow/compiler/xla/stream_executor/cuda/cuda_dnn.cc:9342] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2023-11-22 01:42:42.734727: E tensorflow/compiler/xla/stream_executor/cuda/cuda_fft.cc:609] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2023-11-22 01:42:42.734989: E tensorflow/compiler/xla/stream_executor/cuda/cuda_blas.cc:1518] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2023-11-22 01:42:42.745516: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-11-22 01:42:42.761008: E tensorflow/compiler/xla/stream_executor/cuda/cuda_dnn.cc:9342] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2023-11-22 01:42:42.761271: E tensorflow/compiler/xla/stream_executor/cuda/cuda_fft.cc:609] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2023-11-22 01:42:42.761539: E tensorflow/compiler/xla/stream_executor/cuda/cuda_blas.cc:1518] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2023-11-22 01:42:42.772905: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-11-22 01:42:44.235617: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2023-11-22 01:42:44.354938: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2023-11-22 01:42:44.441057: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2023-11-22 01:42:44.561742: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2023-11-22 01:42:45.481553: I tensorflow/core/distributed_runtime/rpc/grpc_server_lib.cc:457] Started server with target: grpc://node1:3456
+2023-11-22 01:42:45.507619: I tensorflow/tsl/distributed_runtime/coordination/coordination_service.cc:551] /job:worker/replica:0/task:0 has connected to coordination service. Incarnation: 8329113335552269861
+2023-11-22 01:42:45.508222: I tensorflow/tsl/distributed_runtime/coordination/coordination_service_agent.cc:299] Coordination agent has successfully connected.
+2023-11-22 01:42:45.639300: I tensorflow/core/distributed_runtime/rpc/grpc_server_lib.cc:457] Started server with target: grpc://nodepool5:3456
+2023-11-22 01:42:45.652168: I tensorflow/tsl/distributed_runtime/coordination/coordination_service.cc:551] /job:worker/replica:0/task:1 has connected to coordination service. Incarnation: 1364476895798196350
+2023-11-22 01:42:45.650725: I tensorflow/tsl/distributed_runtime/coordination/coordination_service_agent.cc:299] Coordination agent has successfully connected.
+2023-11-22 01:42:45.716250: I tensorflow/core/distributed_runtime/rpc/grpc_server_lib.cc:457] Started server with target: grpc://nodepool6:3456
+2023-11-22 01:42:45.732039: I tensorflow/tsl/distributed_runtime/coordination/coordination_service.cc:551] /job:worker/replica:0/task:2 has connected to coordination service. Incarnation: 8390023134119850579
+2023-11-22 01:42:45.730473: I tensorflow/tsl/distributed_runtime/coordination/coordination_service_agent.cc:299] Coordination agent has successfully connected.
+2023-11-22 01:42:45.885147: I tensorflow/core/distributed_runtime/rpc/grpc_server_lib.cc:457] Started server with target: grpc://nodepool7:3456
+2023-11-22 01:42:45.894668: I tensorflow/tsl/distributed_runtime/coordination/coordination_service.cc:551] /job:worker/replica:0/task:3 has connected to coordination service. Incarnation: 15179785732561726874
+2023-11-22 01:42:45.897264: I tensorflow/tsl/distributed_runtime/coordination/coordination_service_agent.cc:299] Coordination agent has successfully connected.
+2023-11-22 01:42:48.625460: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 1/50
+2023-11-22 01:42:49.086116: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:42:49.128833: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:42:49.152031: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 1/50
+/localscratch/jschemith.1739.0/ENV/lib/python3.10/site-packages/keras/src/backend.py:5729: UserWarning: "`sparse_categorical_crossentropy` received `from_logits=True`, but the `output` argument was produced by a Softmax activation and thus does not represent logits. Was this intended?
+  output, from_logits = _get_logits(
+Epoch 1/50
+Epoch 1/50
+/localscratch/jschemith.1739.0/ENV/lib/python3.10/site-packages/keras/src/backend.py:5729: UserWarning: "`sparse_categorical_crossentropy` received `from_logits=True`, but the `output` argument was produced by a Softmax activation and thus does not represent logits. Was this intended?
+  output, from_logits = _get_logits(
+/localscratch/jschemith.1739.0/ENV/lib/python3.10/site-packages/keras/src/backend.py:5729: UserWarning: "`sparse_categorical_crossentropy` received `from_logits=True`, but the `output` argument was produced by a Softmax activation and thus does not represent logits. Was this intended?
+  output, from_logits = _get_logits(
+/localscratch/jschemith.1739.0/ENV/lib/python3.10/site-packages/keras/src/backend.py:5729: UserWarning: "`sparse_categorical_crossentropy` received `from_logits=True`, but the `output` argument was produced by a Softmax activation and thus does not represent logits. Was this intended?
+  output, from_logits = _get_logits(
+196/196 [==============================] - 21s 94ms/step - loss: 2.9181 - accuracy: 0.1514 0.4887887
+196/196 [==============================] - 21s 94ms/step - loss: 2.9181 - accuracy: 0.1514
+196/196 [==============================] - 21s 94ms/step - loss: 2.9181 - accuracy: 0.1514
+196/196 [==============================] - 22s 94ms/step - loss: 2.9181 - accuracy: 0.1514
+Epoch 2/50
+Epoch 2/50
+Epoch 2/50
+Epoch 2/50
+196/196 [==============================] - 19s 95ms/step - loss: 2.3771 - accuracy: 0.21878705
+196/196 [==============================] - 19s 95ms/step - loss: 2.3771 - accuracy: 0.2187
+196/196 [==============================] - 19s 95ms/step - loss: 2.3771 - accuracy: 0.2187
+196/196 [==============================] - 19s 95ms/step - loss: 2.3771 - accuracy: 0.2187
+2023-11-22 01:43:29.365968: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:43:29.365398: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:43:29.367541: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:43:29.368485: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 3/50
+Epoch 3/50
+Epoch 3/50
+Epoch 3/50
+196/196 [==============================] - 18s 93ms/step - loss: 2.1687 - accuracy: 0.25810118
+196/196 [==============================] - 18s 93ms/step - loss: 2.1687 - accuracy: 0.2581
+196/196 [==============================] - 18s 93ms/step - loss: 2.1687 - accuracy: 0.2581
+196/196 [==============================] - 18s 93ms/step - loss: 2.1687 - accuracy: 0.2581
+Epoch 4/50
+Epoch 4/50
+Epoch 4/50
+Epoch 4/50
+196/196 [==============================] - 18s 92ms/step - loss: 2.0475 - accuracy: 0.28401244
+196/196 [==============================] - 18s 92ms/step - loss: 2.0475 - accuracy: 0.2840
+196/196 [==============================] - 18s 92ms/step - loss: 2.0475 - accuracy: 0.2840
+196/196 [==============================] - 18s 92ms/step - loss: 2.0475 - accuracy: 0.2840
+2023-11-22 01:44:05.941388: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:44:05.951192: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:44:05.954488: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:44:05.958728: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 5/50
+Epoch 5/50
+Epoch 5/50
+Epoch 5/50
+196/196 [==============================] - 18s 94ms/step - loss: 1.9673 - accuracy: 0.30171947
+196/196 [==============================] - 18s 94ms/step - loss: 1.9673 - accuracy: 0.3017
+196/196 [==============================] - 18s 94ms/step - loss: 1.9673 - accuracy: 0.3017
+196/196 [==============================] - 18s 94ms/step - loss: 1.9673 - accuracy: 0.3017
+Epoch 6/50
+Epoch 6/50
+Epoch 6/50
+Epoch 6/50
+196/196 [==============================] - 19s 96ms/step - loss: 1.8976 - accuracy: 0.31742561
+196/196 [==============================] - 19s 96ms/step - loss: 1.8976 - accuracy: 0.3174
+196/196 [==============================] - 19s 96ms/step - loss: 1.8976 - accuracy: 0.3174
+196/196 [==============================] - 19s 96ms/step - loss: 1.8976 - accuracy: 0.3174
+2023-11-22 01:44:43.618464: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:44:43.616560: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:44:43.623310: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:44:43.629590: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 7/50
+Epoch 7/50
+Epoch 7/50
+Epoch 7/50
+196/196 [==============================] - 19s 96ms/step - loss: 1.8467 - accuracy: 0.33143178
+196/196 [==============================] - 19s 96ms/step - loss: 1.8467 - accuracy: 0.3314
+196/196 [==============================] - 19s 96ms/step - loss: 1.8467 - accuracy: 0.3314
+196/196 [==============================] - 19s 96ms/step - loss: 1.8467 - accuracy: 0.3314
+Epoch 8/50
+Epoch 8/50
+Epoch 8/50
+Epoch 8/50
+196/196 [==============================] - 18s 92ms/step - loss: 1.7942 - accuracy: 0.34723832
+196/196 [==============================] - 18s 92ms/step - loss: 1.7942 - accuracy: 0.3472
+196/196 [==============================] - 18s 92ms/step - loss: 1.7942 - accuracy: 0.3472
+196/196 [==============================] - 18s 92ms/step - loss: 1.7942 - accuracy: 0.3472
+2023-11-22 01:45:20.781052: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:45:20.784974: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:45:20.785532: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:45:20.794357: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 9/50
+Epoch 9/50
+Epoch 9/50
+Epoch 9/50
+196/196 [==============================] - 19s 98ms/step - loss: 1.7566 - accuracy: 0.35744249
+196/196 [==============================] - 19s 98ms/step - loss: 1.7566 - accuracy: 0.3574
+196/196 [==============================] - 19s 98ms/step - loss: 1.7566 - accuracy: 0.3574
+196/196 [==============================] - 19s 98ms/step - loss: 1.7566 - accuracy: 0.3574
+Epoch 10/50
+Epoch 10/50
+Epoch 10/50
+Epoch 10/50
+196/196 [==============================] - 19s 95ms/step - loss: 1.7244 - accuracy: 0.36894694
+196/196 [==============================] - 19s 95ms/step - loss: 1.7244 - accuracy: 0.3689
+196/196 [==============================] - 19s 95ms/step - loss: 1.7244 - accuracy: 0.3689
+196/196 [==============================] - 19s 95ms/step - loss: 1.7244 - accuracy: 0.3689
+2023-11-22 01:45:58.900163: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:45:58.905744: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:45:58.906075: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:45:58.922080: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 11/50
+Epoch 11/50
+Epoch 11/50
+Epoch 11/50
+196/196 [==============================] - 18s 94ms/step - loss: 1.6965 - accuracy: 0.37695048
+196/196 [==============================] - 18s 94ms/step - loss: 1.6965 - accuracy: 0.3769
+196/196 [==============================] - 18s 94ms/step - loss: 1.6965 - accuracy: 0.3769
+196/196 [==============================] - 18s 94ms/step - loss: 1.6965 - accuracy: 0.3769
+Epoch 12/50
+Epoch 12/50
+Epoch 12/50
+Epoch 12/50
+196/196 [==============================] - 18s 94ms/step - loss: 1.6697 - accuracy: 0.38845490
+196/196 [==============================] - 18s 94ms/step - loss: 1.6697 - accuracy: 0.3884
+196/196 [==============================] - 18s 94ms/step - loss: 1.6697 - accuracy: 0.3884
+196/196 [==============================] - 18s 94ms/step - loss: 1.6697 - accuracy: 0.3884
+2023-11-22 01:46:36.007331: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:46:36.006578: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:46:36.009068: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:46:36.021236: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 13/50
+Epoch 13/50
+Epoch 13/50
+Epoch 13/50
+196/196 [==============================] - 18s 93ms/step - loss: 1.6421 - accuracy: 0.39805907
+196/196 [==============================] - 18s 93ms/step - loss: 1.6421 - accuracy: 0.3980
+196/196 [==============================] - 18s 93ms/step - loss: 1.6421 - accuracy: 0.3980
+196/196 [==============================] - 18s 93ms/step - loss: 1.6421 - accuracy: 0.3980
+Epoch 14/50
+Epoch 14/50
+Epoch 14/50
+Epoch 14/50
+196/196 [==============================] - 19s 97ms/step - loss: 1.6290 - accuracy: 0.40196062
+196/196 [==============================] - 19s 97ms/step - loss: 1.6290 - accuracy: 0.4019
+196/196 [==============================] - 19s 97ms/step - loss: 1.6290 - accuracy: 0.4019
+196/196 [==============================] - 19s 97ms/step - loss: 1.6290 - accuracy: 0.4019
+2023-11-22 01:47:13.660821: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:47:13.663474: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:47:13.665497: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:47:13.665826: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 15/50
+Epoch 15/50
+Epoch 15/50
+Epoch 15/50
+196/196 [==============================] - 19s 95ms/step - loss: 1.6044 - accuracy: 0.41276488
+196/196 [==============================] - 19s 95ms/step - loss: 1.6044 - accuracy: 0.4127
+196/196 [==============================] - 19s 95ms/step - loss: 1.6044 - accuracy: 0.4127
+196/196 [==============================] - 19s 95ms/step - loss: 1.6044 - accuracy: 0.4127
+Epoch 16/50
+Epoch 16/50
+Epoch 16/50
+Epoch 16/50
+196/196 [==============================] - 19s 94ms/step - loss: 1.5878 - accuracy: 0.41636638
+196/196 [==============================] - 19s 94ms/step - loss: 1.5878 - accuracy: 0.4163
+196/196 [==============================] - 19s 94ms/step - loss: 1.5878 - accuracy: 0.4163
+196/196 [==============================] - 19s 94ms/step - loss: 1.5878 - accuracy: 0.4163
+2023-11-22 01:47:51.123507: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:47:51.124596: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:47:51.123202: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:47:51.153400: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 17/50
+Epoch 17/50
+Epoch 17/50
+Epoch 17/50
+196/196 [==============================] - 19s 96ms/step - loss: 1.5738 - accuracy: 0.42436994
+196/196 [==============================] - 19s 96ms/step - loss: 1.5738 - accuracy: 0.4243
+196/196 [==============================] - 19s 96ms/step - loss: 1.5738 - accuracy: 0.4243
+196/196 [==============================] - 19s 96ms/step - loss: 1.5738 - accuracy: 0.4243
+Epoch 18/50
+Epoch 18/50
+Epoch 18/50
+Epoch 18/50
+196/196 [==============================] - 19s 95ms/step - loss: 1.5528 - accuracy: 0.42877184
+196/196 [==============================] - 19s 95ms/step - loss: 1.5528 - accuracy: 0.4287
+196/196 [==============================] - 19s 95ms/step - loss: 1.5528 - accuracy: 0.4287
+196/196 [==============================] - 19s 95ms/step - loss: 1.5528 - accuracy: 0.4287
+2023-11-22 01:48:28.758103: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:48:28.763238: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:48:28.763026: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:48:28.768925: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 19/50
+Epoch 19/50
+Epoch 19/50
+Epoch 19/50
+196/196 [==============================] - 19s 95ms/step - loss: 1.5393 - accuracy: 0.43517438
+196/196 [==============================] - 19s 95ms/step - loss: 1.5393 - accuracy: 0.4351
+196/196 [==============================] - 19s 95ms/step - loss: 1.5393 - accuracy: 0.4351
+196/196 [==============================] - 19s 95ms/step - loss: 1.5393 - accuracy: 0.4351
+Epoch 20/50
+Epoch 20/50
+Epoch 20/50
+Epoch 20/50
+196/196 [==============================] - 19s 96ms/step - loss: 1.5266 - accuracy: 0.43967522
+196/196 [==============================] - 19s 96ms/step - loss: 1.5266 - accuracy: 0.4396
+196/196 [==============================] - 19s 96ms/step - loss: 1.5266 - accuracy: 0.4396
+196/196 [==============================] - 19s 96ms/step - loss: 1.5266 - accuracy: 0.4396
+2023-11-22 01:49:06.432683: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:49:06.435733: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:49:06.433633: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:49:06.466182: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 21/50
+Epoch 21/50
+Epoch 21/50
+Epoch 21/50
+196/196 [==============================] - 19s 96ms/step - loss: 1.5142 - accuracy: 0.44307710
+196/196 [==============================] - 19s 96ms/step - loss: 1.5142 - accuracy: 0.4430
+196/196 [==============================] - 19s 96ms/step - loss: 1.5142 - accuracy: 0.4430
+196/196 [==============================] - 19s 96ms/step - loss: 1.5142 - accuracy: 0.4430
+Epoch 22/50
+Epoch 22/50
+Epoch 22/50
+Epoch 22/50
+196/196 [==============================] - 19s 96ms/step - loss: 1.4976 - accuracy: 0.45187999
+196/196 [==============================] - 19s 96ms/step - loss: 1.4976 - accuracy: 0.4518
+196/196 [==============================] - 19s 96ms/step - loss: 1.4976 - accuracy: 0.4518
+196/196 [==============================] - 19s 96ms/step - loss: 1.4976 - accuracy: 0.4518
+2023-11-22 01:49:44.281602: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:49:44.280513: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:49:44.286540: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:49:44.297637: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 23/50
+Epoch 23/50
+Epoch 23/50
+Epoch 23/50
+196/196 [==============================] - 19s 95ms/step - loss: 1.4870 - accuracy: 0.45668279
+196/196 [==============================] - 19s 95ms/step - loss: 1.4870 - accuracy: 0.4566
+196/196 [==============================] - 19s 95ms/step - loss: 1.4870 - accuracy: 0.4566
+196/196 [==============================] - 19s 95ms/step - loss: 1.4870 - accuracy: 0.4566
+Epoch 24/50
+Epoch 24/50
+Epoch 24/50
+Epoch 24/50
+196/196 [==============================] - 18s 94ms/step - loss: 1.4700 - accuracy: 0.46088411
+196/196 [==============================] - 18s 94ms/step - loss: 1.4700 - accuracy: 0.4608
+196/196 [==============================] - 18s 94ms/step - loss: 1.4700 - accuracy: 0.4608
+196/196 [==============================] - 18s 94ms/step - loss: 1.4700 - accuracy: 0.4608
+2023-11-22 01:50:21.553353: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:50:21.550853: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:50:21.557211: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:50:21.580885: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 25/50
+Epoch 25/50
+Epoch 25/50
+Epoch 25/50
+196/196 [==============================] - 18s 92ms/step - loss: 1.4615 - accuracy: 0.46808754
+196/196 [==============================] - 18s 92ms/step - loss: 1.4615 - accuracy: 0.4680
+196/196 [==============================] - 18s 92ms/step - loss: 1.4615 - accuracy: 0.4680
+196/196 [==============================] - 18s 92ms/step - loss: 1.4615 - accuracy: 0.4680
+Epoch 26/50
+Epoch 26/50
+Epoch 26/50
+Epoch 26/50
+196/196 [==============================] - 19s 94ms/step - loss: 1.4474 - accuracy: 0.47008784
+196/196 [==============================] - 19s 94ms/step - loss: 1.4474 - accuracy: 0.4700
+196/196 [==============================] - 19s 94ms/step - loss: 1.4474 - accuracy: 0.4700
+196/196 [==============================] - 19s 94ms/step - loss: 1.4474 - accuracy: 0.4700
+2023-11-22 01:50:58.408490: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:50:58.414408: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:50:58.413383: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:50:58.427178: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 27/50
+Epoch 27/50
+Epoch 27/50
+Epoch 27/50
+196/196 [==============================] - 18s 94ms/step - loss: 1.4387 - accuracy: 0.47449013
+196/196 [==============================] - 18s 94ms/step - loss: 1.4387 - accuracy: 0.4744
+196/196 [==============================] - 18s 94ms/step - loss: 1.4387 - accuracy: 0.4744
+196/196 [==============================] - 18s 94ms/step - loss: 1.4387 - accuracy: 0.4744
+Epoch 28/50
+Epoch 28/50
+Epoch 28/50
+Epoch 28/50
+196/196 [==============================] - 19s 98ms/step - loss: 1.4251 - accuracy: 0.47929108
+196/196 [==============================] - 19s 98ms/step - loss: 1.4251 - accuracy: 0.4792
+196/196 [==============================] - 19s 98ms/step - loss: 1.4251 - accuracy: 0.4792
+196/196 [==============================] - 19s 98ms/step - loss: 1.4251 - accuracy: 0.4792
+2023-11-22 01:51:36.291823: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:51:36.294105: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:51:36.301905: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:51:36.304467: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 29/50
+Epoch 29/50
+Epoch 29/50
+Epoch 29/50
+196/196 [==============================] - 18s 92ms/step - loss: 1.4168 - accuracy: 0.48129272
+196/196 [==============================] - 18s 92ms/step - loss: 1.4168 - accuracy: 0.4812
+196/196 [==============================] - 18s 92ms/step - loss: 1.4168 - accuracy: 0.4812
+196/196 [==============================] - 18s 92ms/step - loss: 1.4168 - accuracy: 0.4812
+Epoch 30/50
+Epoch 30/50
+Epoch 30/50
+Epoch 30/50
+196/196 [==============================] - 18s 91ms/step - loss: 1.4062 - accuracy: 0.48449408
+196/196 [==============================] - 18s 91ms/step - loss: 1.4062 - accuracy: 0.4844
+196/196 [==============================] - 18s 91ms/step - loss: 1.4062 - accuracy: 0.4844
+196/196 [==============================] - 18s 91ms/step - loss: 1.4062 - accuracy: 0.4844
+2023-11-22 01:52:12.463625: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:52:12.465677: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:52:12.469191: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:52:12.467035: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 31/50
+Epoch 31/50
+Epoch 31/50
+Epoch 31/50
+196/196 [==============================] - 19s 95ms/step - loss: 1.3982 - accuracy: 0.49039639
+196/196 [==============================] - 19s 95ms/step - loss: 1.3982 - accuracy: 0.4903
+196/196 [==============================] - 19s 95ms/step - loss: 1.3982 - accuracy: 0.4903
+196/196 [==============================] - 19s 95ms/step - loss: 1.3982 - accuracy: 0.4903
+Epoch 32/50
+Epoch 32/50
+Epoch 32/50
+Epoch 32/50
+196/196 [==============================] - 18s 92ms/step - loss: 1.3877 - accuracy: 0.49489867
+196/196 [==============================] - 18s 92ms/step - loss: 1.3877 - accuracy: 0.4948
+196/196 [==============================] - 18s 92ms/step - loss: 1.3877 - accuracy: 0.4948
+196/196 [==============================] - 18s 92ms/step - loss: 1.3877 - accuracy: 0.4948
+2023-11-22 01:52:49.556567: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:52:49.557243: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:52:49.558466: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:52:49.560237: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 33/50
+Epoch 33/50
+Epoch 33/50
+Epoch 33/50
+196/196 [==============================] - 19s 97ms/step - loss: 1.3757 - accuracy: 0.49799870
+196/196 [==============================] - 19s 97ms/step - loss: 1.3757 - accuracy: 0.4979
+196/196 [==============================] - 19s 97ms/step - loss: 1.3757 - accuracy: 0.4979
+196/196 [==============================] - 19s 97ms/step - loss: 1.3757 - accuracy: 0.4979
+Epoch 34/50
+Epoch 34/50
+Epoch 34/50
+Epoch 34/50
+196/196 [==============================] - 19s 96ms/step - loss: 1.3664 - accuracy: 0.50340126
+196/196 [==============================] - 19s 96ms/step - loss: 1.3664 - accuracy: 0.5034
+196/196 [==============================] - 19s 96ms/step - loss: 1.3664 - accuracy: 0.5034
+196/196 [==============================] - 19s 96ms/step - loss: 1.3664 - accuracy: 0.5034
+2023-11-22 01:53:27.641976: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:53:27.644821: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:53:27.648001: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:53:27.649641: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 35/50
+Epoch 35/50
+Epoch 35/50
+Epoch 35/50
+196/196 [==============================] - 19s 96ms/step - loss: 1.3560 - accuracy: 0.50800347
+196/196 [==============================] - 19s 96ms/step - loss: 1.3560 - accuracy: 0.5080
+196/196 [==============================] - 19s 96ms/step - loss: 1.3560 - accuracy: 0.5080
+196/196 [==============================] - 19s 96ms/step - loss: 1.3560 - accuracy: 0.5080
+Epoch 36/50
+Epoch 36/50
+Epoch 36/50
+Epoch 36/50
+196/196 [==============================] - 19s 97ms/step - loss: 1.3482 - accuracy: 0.51190467
+196/196 [==============================] - 19s 97ms/step - loss: 1.3482 - accuracy: 0.5119
+196/196 [==============================] - 19s 97ms/step - loss: 1.3482 - accuracy: 0.5119
+196/196 [==============================] - 19s 97ms/step - loss: 1.3482 - accuracy: 0.5119
+2023-11-22 01:54:05.859625: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:54:05.863954: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:54:05.877271: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:54:05.880336: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 37/50
+Epoch 37/50
+Epoch 37/50
+Epoch 37/50
+196/196 [==============================] - 19s 99ms/step - loss: 1.3383 - accuracy: 0.51360521
+196/196 [==============================] - 19s 99ms/step - loss: 1.3383 - accuracy: 0.5136
+196/196 [==============================] - 19s 99ms/step - loss: 1.3383 - accuracy: 0.5136
+196/196 [==============================] - 19s 99ms/step - loss: 1.3383 - accuracy: 0.5136
+Epoch 38/50
+Epoch 38/50
+Epoch 38/50
+Epoch 38/50
+196/196 [==============================] - 19s 99ms/step - loss: 1.3258 - accuracy: 0.51960723
+196/196 [==============================] - 19s 99ms/step - loss: 1.3258 - accuracy: 0.5196
+196/196 [==============================] - 19s 99ms/step - loss: 1.3258 - accuracy: 0.5196
+196/196 [==============================] - 19s 99ms/step - loss: 1.3258 - accuracy: 0.5196
+2023-11-22 01:54:44.863830: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:54:44.867534: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:54:44.870030: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:54:44.916118: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 39/50
+Epoch 39/50
+Epoch 39/50
+Epoch 39/50
+196/196 [==============================] - 20s 100ms/step - loss: 1.3187 - accuracy: 0.5219910
+196/196 [==============================] - 20s 100ms/step - loss: 1.3187 - accuracy: 0.5219
+196/196 [==============================] - 20s 100ms/step - loss: 1.3187 - accuracy: 0.5219
+196/196 [==============================] - 20s 100ms/step - loss: 1.3187 - accuracy: 0.5219
+Epoch 40/50
+Epoch 40/50
+Epoch 40/50
+Epoch 40/50
+196/196 [==============================] - 20s 100ms/step - loss: 1.3129 - accuracy: 0.5231941
+196/196 [==============================] - 20s 100ms/step - loss: 1.3129 - accuracy: 0.5231
+196/196 [==============================] - 20s 100ms/step - loss: 1.3129 - accuracy: 0.5231
+196/196 [==============================] - 20s 100ms/step - loss: 1.3129 - accuracy: 0.5231
+2023-11-22 01:55:24.299099: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:55:24.302972: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:55:24.305602: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:55:24.318077: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 41/50
+Epoch 41/50
+Epoch 41/50
+Epoch 41/50
+196/196 [==============================] - 19s 95ms/step - loss: 1.2994 - accuracy: 0.52921145
+196/196 [==============================] - 19s 95ms/step - loss: 1.2994 - accuracy: 0.5292
+196/196 [==============================] - 19s 95ms/step - loss: 1.2994 - accuracy: 0.5292
+196/196 [==============================] - 19s 95ms/step - loss: 1.2994 - accuracy: 0.5292
+Epoch 42/50
+Epoch 42/50
+Epoch 42/50
+Epoch 42/50
+196/196 [==============================] - 19s 98ms/step - loss: 1.2931 - accuracy: 0.53501386
+196/196 [==============================] - 19s 98ms/step - loss: 1.2931 - accuracy: 0.5350
+196/196 [==============================] - 19s 98ms/step - loss: 1.2931 - accuracy: 0.5350
+196/196 [==============================] - 19s 98ms/step - loss: 1.2931 - accuracy: 0.5350
+2023-11-22 01:56:02.490989: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:56:02.497245: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:56:02.498759: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:56:02.513622: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 43/50
+Epoch 43/50
+Epoch 43/50
+Epoch 43/50
+196/196 [==============================] - 18s 94ms/step - loss: 1.2878 - accuracy: 0.53341290
+196/196 [==============================] - 18s 94ms/step - loss: 1.2878 - accuracy: 0.5334
+196/196 [==============================] - 18s 94ms/step - loss: 1.2878 - accuracy: 0.5334
+196/196 [==============================] - 18s 94ms/step - loss: 1.2878 - accuracy: 0.5334
+Epoch 44/50
+Epoch 44/50
+Epoch 44/50
+Epoch 44/50
+196/196 [==============================] - 20s 100ms/step - loss: 1.2764 - accuracy: 0.5370485
+196/196 [==============================] - 20s 100ms/step - loss: 1.2764 - accuracy: 0.5370
+196/196 [==============================] - 20s 100ms/step - loss: 1.2764 - accuracy: 0.5370
+196/196 [==============================] - 20s 100ms/step - loss: 1.2764 - accuracy: 0.5370
+2023-11-22 01:56:40.788540: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:56:40.791412: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:56:40.801032: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:56:40.810978: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 45/50
+Epoch 45/50
+Epoch 45/50
+Epoch 45/50
+196/196 [==============================] - 19s 98ms/step - loss: 1.2727 - accuracy: 0.53871481
+196/196 [==============================] - 19s 98ms/step - loss: 1.2727 - accuracy: 0.5387
+196/196 [==============================] - 19s 98ms/step - loss: 1.2727 - accuracy: 0.5387
+196/196 [==============================] - 19s 98ms/step - loss: 1.2727 - accuracy: 0.5387
+Epoch 46/50
+Epoch 46/50
+Epoch 46/50
+Epoch 46/50
+196/196 [==============================] - 19s 99ms/step - loss: 1.2614 - accuracy: 0.54651867
+196/196 [==============================] - 19s 99ms/step - loss: 1.2614 - accuracy: 0.5465
+196/196 [==============================] - 19s 99ms/step - loss: 1.2614 - accuracy: 0.5465
+196/196 [==============================] - 19s 99ms/step - loss: 1.2614 - accuracy: 0.5465
+2023-11-22 01:57:19.753749: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:57:19.757940: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:57:19.765111: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:57:19.778633: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 47/50
+Epoch 47/50
+Epoch 47/50
+Epoch 47/50
+196/196 [==============================] - 18s 93ms/step - loss: 1.2504 - accuracy: 0.54871912
+196/196 [==============================] - 18s 93ms/step - loss: 1.2504 - accuracy: 0.5487
+196/196 [==============================] - 18s 93ms/step - loss: 1.2504 - accuracy: 0.5487
+196/196 [==============================] - 18s 93ms/step - loss: 1.2504 - accuracy: 0.5487
+Epoch 48/50
+Epoch 48/50
+Epoch 48/50
+Epoch 48/50
+196/196 [==============================] - 19s 98ms/step - loss: 1.2517 - accuracy: 0.55052024
+196/196 [==============================] - 19s 98ms/step - loss: 1.2517 - accuracy: 0.5505
+196/196 [==============================] - 19s 98ms/step - loss: 1.2517 - accuracy: 0.5505
+196/196 [==============================] - 19s 98ms/step - loss: 1.2517 - accuracy: 0.5505
+2023-11-22 01:57:57.546858: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:57:57.543511: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:57:57.550060: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+2023-11-22 01:57:57.551153: W tensorflow/core/framework/dataset.cc:959] Input of GeneratorDatasetOp::Dataset will not be optimized because the dataset does not implement the AsGraphDefInternal() method needed to apply optimizations.
+Epoch 49/50
+Epoch 49/50
+Epoch 49/50
+Epoch 49/50
+196/196 [==============================] - 19s 94ms/step - loss: 1.2412 - accuracy: 0.55292113
+196/196 [==============================] - 19s 94ms/step - loss: 1.2412 - accuracy: 0.5529
+196/196 [==============================] - 19s 94ms/step - loss: 1.2412 - accuracy: 0.5529
+196/196 [==============================] - 19s 94ms/step - loss: 1.2412 - accuracy: 0.5529
+Epoch 50/50
+Epoch 50/50
+Epoch 50/50
+Epoch 50/50
+196/196 [==============================] - 19s 99ms/step - loss: 1.2331 - accuracy: 0.55832317
+196/196 [==============================] - 19s 99ms/step - loss: 1.2331 - accuracy: 0.5583
+196/196 [==============================] - 19s 99ms/step - loss: 1.2331 - accuracy: 0.5583
+196/196 [==============================] - 19s 99ms/step - loss: 1.2331 - accuracy: 0.5583
+classifier trained in 946.899 seconds
+classifier trained in 947.35 seconds
+classifier trained in 946.83 seconds
+classifier trained in 946.814 seconds
